@@ -64,4 +64,4 @@ Telegram频道传送门：严选热门Telegram频道，涵盖资讯、娱乐、�
 社会影响：
 
 《黑料大事记》系统梳理娱乐圈与网红圈历年来的重要瓜点事件，按时间线详实记录从爆料引爆到舆论发酵的全过程。它不仅帮助网友回顾每一次“世纪大瓜”的诞生与扩散，更成为追踪舆论轨迹、洞察圈层生态的权威资料库与反思平台。
-[Canonical link](https://github.com/mimi20250624/mi2 ）
+[Canonical link](https://github.com/mimi20250624/mi13 ）
